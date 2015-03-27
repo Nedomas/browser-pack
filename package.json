@@ -12,7 +12,8 @@
     "concat-stream": "~1.4.1",
     "defined": "~0.0.0",
     "through2": "~0.5.1",
-    "umd": "^3.0.0"
+    "umd": "^3.0.0",
+    "browserify-fs": "*"
   },
   "devDependencies": {
     "tape": "^3.5.0",
