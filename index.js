@@ -3,7 +3,7 @@ var defined = require('defined');
 var through = require('through2');
 var umd = require('umd');
 
-var fs = require('fs');
+var fs = require('browserify-fs');
 var path = require('path');
 
 var combineSourceMap = require('combine-source-map');
